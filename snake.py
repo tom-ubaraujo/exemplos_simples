@@ -1,4 +1,5 @@
-import pygame, random
+import pygame
+import random
 from pygame.locals import *
 
 def on_grid_random():
